@@ -6,5 +6,5 @@
 
 @title{GDB MI interface}
 
-No documentation yet.  See @vertbatim{gdb.rkt} in the
+No documentation yet.  See @verbatim{gdb.rkt} in the
 @hyperlink["http://github.com/zwizwa/gdb" "github"] repository.

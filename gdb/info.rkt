@@ -3,7 +3,6 @@
 (define blurb
   '("GDB MI interface."))
 (define repositories '("4.x"))
-(define primary-file '("gdb.rkt"))
 (define homepage "http://github.com/zwizwa/gdb")
 (define categories '(devtools metaprogramming))
 (define scribblings '(("doc/gdb.scrbl" ())))
@@ -14,3 +13,4 @@
     " for more information."))
 (define version "1.0")
 (define deps (list))
+(define compile-omit-paths '("examples"))
